@@ -1,6 +1,6 @@
-# Study Notion
+# Study Loop
 
-Study Notion is an ED Tech (Education Technology) web application developed using the MERN stack.
+Study Loop is an ED Tech (Education Technology) web application developed using the MERN stack.
 
 ## Note
 
